@@ -9,3 +9,5 @@ This area will be used to show the latest news and announcements.
 
 
 Please use the discussions area in this repo to raise questions, offer advise to others and share your cool ideas!
+
+https://github.com/Fu-SED/New-Updates/discussions/
